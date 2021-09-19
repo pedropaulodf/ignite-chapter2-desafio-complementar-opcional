@@ -5,24 +5,8 @@
       "name": "dfgdfg",
       "price": "454",
       "description": "dfdfgdfg",
-      "available": false,
+      "available": true,
       "id": 2
-    },
-    {
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
-      "name": "gdfgdfg",
-      "price": "21321",
-      "description": "sgdfgsdfg",
-      "available": false,
-      "id": 3
-    },
-    {
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
-      "name": "gd2g1f231",
-      "price": "21231",
-      "description": "dfgdfg",
-      "available": false,
-      "id": 4
     }
   ]
 }
